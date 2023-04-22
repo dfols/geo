@@ -6,7 +6,7 @@
 
 | Name               | Role             |
 | ------------------ | ---------------- |
-| Dylan Foley        | Team Lead        |
+| dfols        | Team Lead        |
 | Kaitlyn Stackhouse | Senior Developer |
 | Najib Hashi        | Senior Developer |
 | Mas Dijkstra       | Junior Developer |

@@ -37,5 +37,5 @@ You will know you did this correctly if you have a `client` and `server` folder 
 
 Using a terminal / command prompt, run the command `docker-compose up --build` inside of the project directory and that's it! Docker will build the image for the frontend, build the image for the backend, and start 'em up.
 
-Go to `localhost:3000` in your browser to see the live react frontend
+Go to `localhost:3000` in your browser to see the live react frontend\
 Send a `GET` request to `localhost:3080/api` to see the api in action
